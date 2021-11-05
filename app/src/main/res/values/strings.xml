@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ex2</string>
+    <string name="Mat">Сотрудник написал 150 строк кода</string>
+    <string name="Vas">Сотрудник написал 200 строк кода</string>
+    <string name="Maks">Сотрудник написал 100 строк кода</string>
+    <string name="Ivan">Сотрудник написал 50 строк кода</string>
+    <string name="Mat1">Рейтинг: №1</string>
+    <string name="Vas1">Рейтинг: №2</string>
+    <string name="Maks1">Рейтинг: №3</string>
+    <string name="Ivan1">Рейтинг: №4</string>
+    <string name="Mat2">3 проекта</string>
+    <string name="Vas2">1 проекта</string>
+    <string name="Maks2">5 проекта</string>
+    <string name="Ivan2">7 проекта</string>
+    <string name="Mat3">Команда: Солнышко</string>
+    <string name="Vas3">Команда: Ветерок</string>
+    <string name="Maks3">Команда: Речушка</string>
+    <string name="Ivan3">Команда: Домик</string>
+</resources>
